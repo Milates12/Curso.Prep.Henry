@@ -1,0 +1,46 @@
+
+
+DEFINICIONES
+
+1. Variable: 
+Una variable es un algo donde se guarda y se recupera datos. Por
+ejemplo, imagina que tienes un recipiente de vidrio donde
+guardarás cualquier cosa, en este caso la variable sería el
+recipiente ya que ahí puedes guardar monedas, dulces, galletas,
+entre otras cosas, lo que puede guardar serían los datos y se
+pueden recuperar cuando tu lo necesites, si quieres una galleta,
+buscarás el recipiente de galletas y la "recuperarás".
+
+
+2.  String:
+Un string en el ejemplo de los recipientes de vidrio serían las
+letras o numeros que componen el nombre en sus etiquetas. Así, el
+nombre del recipiente con galletas se llamará 'Galletas' o si
+quieres incluir cuantas galletas tienes, lo llamarás '12
+galletas'. Por lo tanto, el string es la cadena de letras y
+numeros que contiene ese nombre. 
+
+
+3. Funciones (argumentos, return) 
+Las funciones son como el trabajo al que está destinado hacer 
+un robot. Por ejemplo, tenemos un robot cuyo trabajo es organizar
+varios recipientes de vidrio que contienen galletas en su
+interior. Los argumentos serán cómo el robot tiene que
+organizarlos, por su sabor, por su forma, por la cantidad de
+galletas que hay en el recipiente, etc. Esto dependerá de lo que
+necesitemos. Si decidimos que el robot ordene las galletas de
+acuerdo a su sabor, el return será cuando el robot nos muestre
+que cantidad de galletas de sabor chocolate tengo. 
+
+4. Declaraciones if
+Siguiendo con el ejemplo del robot que ordena los recipientes con galletas, 
+ahora queremos apartar las galletas chocolate con relleno de vainilla de las demás 
+(esta sería la condición). El condicional if (si en español) le dirá al robot al robot
+que si la galleta que está tomando es de chocolate con relleno de vainilla entonces 
+lo guardará en una caja llamada 'true' de lo contrario la galleta será guardada en 
+'false'.
+
+5. Valores booleanos (true, false)
+Los valores booleanos serán en el ejemplo anterior, las cajas con los nombres 'true' o 'false' ya que el booleano nos indicará si cumple o no cumple la condición que le hemos dicho al robot para apartar las galletas de chocolate rellenas de vainilla. 
+
+
