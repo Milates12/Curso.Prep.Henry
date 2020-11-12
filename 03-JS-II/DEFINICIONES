@@ -1,0 +1,14 @@
+
+Definiciones
+
+-For:
+Imagina que tienes un set que contiene un auto de juguete con una pista de carreras. Resulta que a este set le puedes configurar el sitio de la pista donde quieres que el auto empiece la carrera, qué número de vueltas alrededor de la pista quieres que de y la velocidad del auto. Esta configuración sería 'For'. Este bucle nos permite repetir varias veces la misma operación de acuerdo a las condiciones que conocemos inicialmente, estas condiciones son los argumentos. En 'For' debemos indicar una expresion inicial, expresión de condición y una expresión de actualización. La expresión inicial es el punto de partida, en el ejemplo de la pista y el auto, sería la posición de inicio de la carrera, la expresión de condición es en número de vueltas que quieres que el auto haga y la expresión de actualiazción sería la velocidad que quiere que el auto tenga. 
+
+'&&':
+El operador '&&' se entiende como si fuera un "y". Entonces, si tu quieres separar determinado conjunto de caramelos con ciertas caracteristicas de un conjunto de camarelos variados más grande. Entonces tendrás que darle la orden a un robot: Escoje solamente los caramelos que son rojos '&&' tienen forma esférica. Entonces, el robot solo tomará los caramelos que cumplen con la condición.
+
+'||':
+El operador '||' se entiende como si fuera un "O" o en inglés "Or". Continuando con el ejemplo de los caramelos con diferentes formas y colores. Ahora le diremos al robot: toma los caramelos de color azul '||'  los caramelos cuadrados. Para este caso, no es necesario que se cumplan las dos condiciones.
+
+'!':
+El operador '!' se entiende como si fuera un "No" o en inglés "Not". Supongamos que me gustan los caramelos de coco solamente, por lo tanto mi orden para que el robot será: Si el caramelo que tomas '!' es de coco, no lo apartes. 
