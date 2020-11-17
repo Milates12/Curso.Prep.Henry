@@ -73,9 +73,12 @@ function fizzBuzz(num) {
 
 function esPrimo(num) {
   for (var i = 2; i < num; i++) {
+    // Los números primos empiezan desde el 2, para cualquier i mayor a 2, luego devuelve el valor de su operando antes de agregar uno
     if (num % i === 0) {
       return false;
+      // Si el residuo entre num y i es igual 0, no es un numero primo por lo tanto, retornará false
     }
   }
   return num !== 1;
+  // si el primo, retornará el mismo numero
 }
