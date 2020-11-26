@@ -1,0 +1,8 @@
+
+
+-Array
+Imagina que tienes una colección de fotos de jugadores de futbol pero
+aun te faltan algunas fotos para completar la colección. Para tener un
+orden con todas las fotos, debemos hacer una lista para organizarlos. Para esto colocas en la lista los nombres de cada uno. Así, cuando tengas una
+nueva foto, buscarás el nombre del jugador y verificarás si ya lo tienes
+o no. 
